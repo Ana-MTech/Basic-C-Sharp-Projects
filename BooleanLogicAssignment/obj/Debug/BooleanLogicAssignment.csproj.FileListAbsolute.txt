@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\BooleanLogicAssignmentS\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe.config
+C:\Users\MyPC\source\repos\BooleanLogicAssignmentS\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\MyPC\source\repos\BooleanLogicAssignmentS\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\MyPC\source\repos\BooleanLogicAssignmentS\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\BooleanLogicAssignmentS\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\BooleanLogicAssignmentS\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\MyPC\source\repos\BooleanLogicAssignmentS\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb
