@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\PriceQuoteApplicationAssignmentS\PriceQuoteApplicationAssignment\obj\Debug\PriceQuoteApplicationAssignment.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\PriceQuoteApplicationAssignmentS\PriceQuoteApplicationAssignment\obj\Debug\PriceQuoteApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\PriceQuoteApplicationAssignmentS\PriceQuoteApplicationAssignment\bin\Debug\PriceQuoteApplicationAssignment.exe.config
+C:\Users\MyPC\source\repos\PriceQuoteApplicationAssignmentS\PriceQuoteApplicationAssignment\bin\Debug\PriceQuoteApplicationAssignment.exe
+C:\Users\MyPC\source\repos\PriceQuoteApplicationAssignmentS\PriceQuoteApplicationAssignment\bin\Debug\PriceQuoteApplicationAssignment.pdb
+C:\Users\MyPC\source\repos\PriceQuoteApplicationAssignmentS\PriceQuoteApplicationAssignment\obj\Debug\PriceQuoteApplicationAssignment.exe
+C:\Users\MyPC\source\repos\PriceQuoteApplicationAssignmentS\PriceQuoteApplicationAssignment\obj\Debug\PriceQuoteApplicationAssignment.pdb
