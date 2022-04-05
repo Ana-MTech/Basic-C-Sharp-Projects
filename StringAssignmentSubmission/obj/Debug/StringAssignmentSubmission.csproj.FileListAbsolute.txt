@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\StringAssignmentSubmissionS\StringAssignmentSubmission\obj\Debug\StringAssignmentSubmission.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\StringAssignmentSubmissionS\StringAssignmentSubmission\obj\Debug\StringAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\StringAssignmentSubmissionS\StringAssignmentSubmission\bin\Debug\StringAssignmentSubmission.exe.config
+C:\Users\MyPC\source\repos\StringAssignmentSubmissionS\StringAssignmentSubmission\bin\Debug\StringAssignmentSubmission.exe
+C:\Users\MyPC\source\repos\StringAssignmentSubmissionS\StringAssignmentSubmission\bin\Debug\StringAssignmentSubmission.pdb
+C:\Users\MyPC\source\repos\StringAssignmentSubmissionS\StringAssignmentSubmission\obj\Debug\StringAssignmentSubmission.exe
+C:\Users\MyPC\source\repos\StringAssignmentSubmissionS\StringAssignmentSubmission\obj\Debug\StringAssignmentSubmission.pdb
