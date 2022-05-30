@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\ArraysAssignment1S\ArraysAssignment1\obj\Debug\ArraysAssignment1.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\ArraysAssignment1S\ArraysAssignment1\obj\Debug\ArraysAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\ArraysAssignment1S\ArraysAssignment1\bin\Debug\ArraysAssignment1.exe.config
+C:\Users\MyPC\source\repos\ArraysAssignment1S\ArraysAssignment1\bin\Debug\ArraysAssignment1.exe
+C:\Users\MyPC\source\repos\ArraysAssignment1S\ArraysAssignment1\bin\Debug\ArraysAssignment1.pdb
+C:\Users\MyPC\source\repos\ArraysAssignment1S\ArraysAssignment1\obj\Debug\ArraysAssignment1.exe
+C:\Users\MyPC\source\repos\ArraysAssignment1S\ArraysAssignment1\obj\Debug\ArraysAssignment1.pdb
