@@ -21,14 +21,13 @@ class Program
         Console.WriteLine(Books[4]);
         Console.WriteLine(Books[5]);
         Console.WriteLine("");
-       
-        int BookNumber = 0;
-        BookNumber = Convert.ToInt32(Console.ReadLine())-1;
+
+        int BookNumber = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine(Books[BookNumber]);
         Console.WriteLine("");
 
 
-        Console.WriteLine("We have 4 book clubs, choose one that best suite your time table...All club meet at our Library but in different times and days");
+        Console.WriteLine("We have 4 book clubs, choose one that best suite your timetable...All club meet at our Library but in different times and days");
         Console.WriteLine("");
         Console.WriteLine("Choose the one that best siute you by choosing the corresponding number");
         Console.WriteLine("");
@@ -43,8 +42,7 @@ class Program
         //Console.WriteLine(Times[3]);
         //Console.WriteLine("");
 
-        int MeetingTime = 0;
-        MeetingTime = Convert.ToInt32(Console.ReadLine()) - 1;
+        int MeetingTime = Convert.ToInt32(Console.ReadLine());
 
         if (MeetingTime <= 4)
         {
@@ -54,6 +52,7 @@ class Program
         {
             Console.WriteLine($"{MeetingTime} is an meeting combination that does not exist.");
         }
+        Console.WriteLine("");
 
         Console.WriteLine("Where would you like to travel?");
         Console.WriteLine("");
@@ -70,9 +69,9 @@ class Program
         Console.WriteLine(names[5]);
         Console.WriteLine("");
 
-        int TownName = 0;
-        TownName = Convert.ToInt32(Console.ReadLine()) - 1;
+        int TownName = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("You choose the " + names[TownName] + ".");
+
         Console.ReadLine();
     }
 }
