@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-    class Program
-    {
+class Program
+{
     static void Main(string[] args)
     {
         //1. Part assignement:
@@ -77,6 +77,10 @@ using System.Collections.Generic;
         //    {
         //        Console.WriteLine("Sorry, this is not the list");              
         //    }
+        //if (matcheExist = true)
+        //    {
+        //        break;
+        //    }
 
         //5. Part assignement:
 
@@ -103,12 +107,29 @@ using System.Collections.Generic;
         //6. Part assignement:
 
         List<string> colours = new List<string>() { "Red", "White", "Black", "White", "Blue", "Green" };
+        List<string> boxes = new List<string>();
+
         Console.WriteLine("We have the following colours: \nRed, \nWhite, \nBlack, \nBlue, \nGreen\n");
-        Console.WriteLine(colours);
-       
+
+        foreach (string colour in colours)
+        {
+            if (boxes.Contains(colour))
+
+            {
+                Console.WriteLine("The list contains colour");
+            }
+            else if (boxes == null)
+            {
+                Console.WriteLine("The list is empty!");
+            }
+        }
+
         Console.ReadLine();
+
+
+        }
     }
-    }
+
 
 
 
