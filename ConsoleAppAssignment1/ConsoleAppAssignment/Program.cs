@@ -116,16 +116,16 @@ class Program
             if (boxes.Contains(colour))
 
             {
-                Console.WriteLine("The list contains colour");
+                Console.WriteLine("The list contains colour" + colour); //concatenate 'colour' variable to make output unique
             }
-            else if (boxes == null)
+            else if (!boxes.Contains(colour))  //checks for the opposite of Contains, so this reads "if boxes does not contain colour"
             {
-                Console.WriteLine("The list is empty!");
+                Console.WriteLine("The list does not contain the colour " + colour);
+                boxes.Add(colour);  //add the colour to the list if it is not there already.
             }
         }
 
         Console.ReadLine();
-
 
         }
     }
