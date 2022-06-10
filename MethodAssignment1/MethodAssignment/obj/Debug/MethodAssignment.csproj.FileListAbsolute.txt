@@ -1,0 +1,2 @@
+C:\Users\MyPC\source\repos\MethodAssignment1\MethodAssignment\obj\Debug\MethodAssignment.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\MethodAssignment1\MethodAssignment\obj\Debug\MethodAssignment.csproj.CoreCompileInputs.cache
