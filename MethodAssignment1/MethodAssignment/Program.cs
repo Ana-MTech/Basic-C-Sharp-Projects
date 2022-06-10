@@ -14,17 +14,12 @@ namespace MethodAssignment
             Console.WriteLine("Enter an number to do some basic math operation.");
             int userValue = Convert.ToInt32(Console.ReadLine());
 
-            int obj = new Program();
-            int result = obj.Add(userValue, 4);
+            Class1 obj = new Class1();    //makes an object of Class1, object instatiation
+            int result = obj.Add(userValue, 5);
             result = obj.Multiply(result, 1);
-            result = obj.Substract(result, 2);
+            result = obj.Subtract(result, 2);
 
-            //int programObject = new Program();
-            //int result = programObject.Add(userValue, 4);
-            //result = programObject.Multiply(result, 1);
-            //result = programObject.Substract(result, 2);
-
-            Console.WriteLine(result);
+            Console.WriteLine("User value + 5, result * by 1 and than result - 2 is: " + result);
             Console.ReadLine();
         }
     }
