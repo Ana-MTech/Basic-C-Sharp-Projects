@@ -1,0 +1,2 @@
+C:\Users\MyPC\source\repos\ClassesAndMethodsAssignment1\ClassesAndMethodsAssignment1\obj\Debug\ClassesAndMethodsAssignment1.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\ClassesAndMethodsAssignment1\ClassesAndMethodsAssignment1\obj\Debug\ClassesAndMethodsAssignment1.csproj.CoreCompileInputs.cache
