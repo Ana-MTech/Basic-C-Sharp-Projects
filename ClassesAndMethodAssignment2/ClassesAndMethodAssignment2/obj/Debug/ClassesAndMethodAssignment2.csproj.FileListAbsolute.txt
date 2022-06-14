@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\ClassesAndMethodAssignment2\ClassesAndMethodAssignment2\bin\Debug\ClassesAndMethodAssignment2.exe.config
+C:\Users\MyPC\source\repos\ClassesAndMethodAssignment2\ClassesAndMethodAssignment2\bin\Debug\ClassesAndMethodAssignment2.exe
+C:\Users\MyPC\source\repos\ClassesAndMethodAssignment2\ClassesAndMethodAssignment2\bin\Debug\ClassesAndMethodAssignment2.pdb
+C:\Users\MyPC\source\repos\ClassesAndMethodAssignment2\ClassesAndMethodAssignment2\obj\Debug\ClassesAndMethodAssignment2.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\ClassesAndMethodAssignment2\ClassesAndMethodAssignment2\obj\Debug\ClassesAndMethodAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\ClassesAndMethodAssignment2\ClassesAndMethodAssignment2\obj\Debug\ClassesAndMethodAssignment2.exe
+C:\Users\MyPC\source\repos\ClassesAndMethodAssignment2\ClassesAndMethodAssignment2\obj\Debug\ClassesAndMethodAssignment2.pdb
