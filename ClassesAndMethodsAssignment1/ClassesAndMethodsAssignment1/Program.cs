@@ -16,14 +16,19 @@ namespace ClassesAndMethodsAssignment1
 
             Class1 obj = new Class1();    //makes an object of Class1, object instatiation
             int result = obj.Add(userValue, 5);
-            Class1 obj1 = obj.Subtract(userValue, 2,45);
-            Class1 obj3 = obj.Division(userValue, 1);
+            decimal result2 = obj.Subtract(userValue, 2,45);
+            int result3 = obj.Division(userValue, 1);
             //result = obj.Multiply(result, 1);
             //result = obj.Subtract(result, 2);
 
             Add.GetResults();
             Subtract.getResults();
-            Division.getResults();
+            Division.getResults();.
+
+
+
+
+
         
 
             Console.ReadLine();
