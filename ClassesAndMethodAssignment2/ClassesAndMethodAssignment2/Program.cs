@@ -22,18 +22,18 @@ namespace ClassesAndMethodAssignment2
 
             if (userValueY == " ") //use '=='for comparision, '='assigns value
             {
-                int result = obj.Add(userValueX);              
+                int result = obj.Add(userValueX);
+                Console.WriteLine(userValueX);
             }
 
             else               
             {
-                int userValueZ = Convert.ToInt32(UserValueY); //new variable set equal to the converted userValueY
-                int result1 = obj.Add(userValueX, userValueZ);                   
+                int userValueZ = Convert.ToInt32(userValueY); //new variable set equal to the converted userValueY
+                int result1 = obj.Add(userValueX, userValueZ);
+                Console.WriteLine(userValueX + userValueZ);
+               
             }
-
-            //Console.WriteLine(userValueX);
-           
-            Console.WriteLine(userValueX + userValueY);
+                       
             Console.ReadLine();
             
         }
