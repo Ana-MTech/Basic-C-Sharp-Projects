@@ -10,41 +10,30 @@ namespace ClassesAndMethodAssignment2
     {
         static public void Main()
         {
-           
+            Class1 obj = new Class1();    //makes an object of Class1, object instatiation
+
             Console.WriteLine("We have an simple equation: x + y.");
             Console.WriteLine("Enter the x value.");
             int userValueX = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Enter the y value. You may also choose to not enter anything for the value y.");
-             userValueY = " ";
+            string userValueY = Console.ReadLine();  //make this variable string and use ReadLine to get user input
+             
 
-            if (userValueY = " ")
+            if (userValueY == " ") //use '=='for comparision, '='assigns value
             {
                 int result = obj.Add(userValueX);              
             }
 
-            else if (userValueY > 0)              
+            else               
             {
-                int userValueY = Convert.ToInt32(Console.ReadLine());
-                int result1 = obj.Add(userValueX, userValueY);                   
+                int userValueZ = Convert.ToInt32(UserValueY); //new variable set equal to the converted userValueY
+                int result1 = obj.Add(userValueX, userValueZ);                   
             }
 
-
-            
-           // OptionalMethodWithDefaultValue(10);
-          
-     
-            Class1 obj = new Class1();    //makes an object of Class1, object instatiation
-            Console.WriteLine(userValueX);
-            //int result = obj.Add(userValueX, userValueY );
-
-
-            //int result1 = obj.Add(userValueY, n );
-
-
-
-
-            Console.WriteLine("Result is: {0}", result);
+            //Console.WriteLine(userValueX);
+           
+            Console.WriteLine(userValueX + userValueY);
             Console.ReadLine();
             
         }
