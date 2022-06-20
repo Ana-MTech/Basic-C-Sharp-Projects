@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\ClassesAndMethodsAssignment3.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\ClassesAndMethodsAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\ClassesAndMethodsAssignment3.exe.config
+C:\Users\MyPC\source\repos\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\ClassesAndMethodsAssignment3.exe
+C:\Users\MyPC\source\repos\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\ClassesAndMethodsAssignment3.pdb
+C:\Users\MyPC\source\repos\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\ClassesAndMethodsAssignment3.exe
+C:\Users\MyPC\source\repos\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\ClassesAndMethodsAssignment3.pdb
