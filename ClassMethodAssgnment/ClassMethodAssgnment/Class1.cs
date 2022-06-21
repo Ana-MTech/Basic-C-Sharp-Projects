@@ -17,7 +17,7 @@ namespace ClassMethodAssignment
 
         }
 
-        public static void Division1(int y, int z)
+        public static void Division(int y, int z)
 
         {
             int total = y / z;   

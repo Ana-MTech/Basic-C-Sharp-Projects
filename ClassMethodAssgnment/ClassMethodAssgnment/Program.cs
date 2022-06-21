@@ -15,12 +15,12 @@ namespace ClassMethodAssignment
                 Console.WriteLine("x : 2 = y");
                 Console.WriteLine("Enter the x value, an positive whole number");
                 int userValue = Convert.ToInt32(Console.ReadLine());
-                obj.Division(userValue / 2);
+                Class1.Division(userValue / 2);
 
                 Console.WriteLine("10 / 5:");
                 int y = 10;
                 int z = 5;
-                obj.Division1( y / z );
+                Class1.Division( y / z );
                
 
             Console.ReadLine();
