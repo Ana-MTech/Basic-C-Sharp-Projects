@@ -1,0 +1,2 @@
+C:\Users\MyPC\source\repos\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.CoreCompileInputs.cache
