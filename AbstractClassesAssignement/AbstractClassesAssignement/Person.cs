@@ -22,7 +22,7 @@ namespace AbstractClassesAssignement
       
         public void SayName()
         {
-            Console.WriteLine("Name: [full name]");
+            Console.WriteLine(firstName + "" + lastName);
         }
     }
 }

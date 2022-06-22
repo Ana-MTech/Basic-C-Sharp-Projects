@@ -10,8 +10,8 @@ namespace AbstractClassesAssignement
     {
         public void SayName()
         {
-            Console.WriteLine("Ema Smith");
-         }
+            Console.WriteLine(firstName + "" + lastName);
+        }
 
 
     }

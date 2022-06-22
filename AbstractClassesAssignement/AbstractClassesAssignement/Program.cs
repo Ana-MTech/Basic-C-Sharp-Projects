@@ -11,15 +11,13 @@ namespace AbstractClassesAssignement
         static void Main(string[] args)
         {
             Employee person = new Employee();
+            
 
             person.firstName = "Sample";
-            Console.WriteLine("firstName");
-
             person.lastName = "Student";
-            Console.WriteLine("lastName");
-
-            person.SayName();      
+            person.SayName();
            
+         
             Console.ReadLine();
         }
     }
