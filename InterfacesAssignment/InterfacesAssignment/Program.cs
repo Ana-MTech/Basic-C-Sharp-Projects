@@ -12,11 +12,6 @@ namespace InterfacesAssignment
         {
             IQuittable file1 = new Employee();
             Employee file2 = new Employee();
-
-
-            //file2.firstName = "Name";
-            //file2.lastName = "Surname";
-
             file2.SayName();
             file1.Quit();
             Console.ReadLine();

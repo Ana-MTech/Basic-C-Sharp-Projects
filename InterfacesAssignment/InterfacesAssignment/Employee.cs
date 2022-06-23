@@ -7,13 +7,26 @@ using System.Threading.Tasks;
 namespace InterfacesAssignment
 {
         public class Employee : IQuittable
-        {
-            public void SayName()
+        
+    {
+        public void SayName()
             {
                 Console.WriteLine(firstName + "" + lastName);
             }
 
-            public void Quit()
+        public string firstName
+            {
+                 get;
+                 set;
+            }
+
+        public string lastName
+            {
+                 get;
+                 set;
+            }
+            
+        public void Quit()
             {
                  Console.WriteLine("The list for first quartal.");
             }

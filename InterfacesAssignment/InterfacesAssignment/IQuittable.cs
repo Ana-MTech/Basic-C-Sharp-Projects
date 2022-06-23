@@ -8,8 +8,8 @@ namespace InterfacesAssignment
 {
     public interface IQuittable
     {
-        void SayName(firstName + "" + lastName);
-        void Quit();
-        
+        public void SayName();
+      //  void Quit();
+       
     }
 }
