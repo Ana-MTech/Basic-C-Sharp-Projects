@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\OperatorOverloading Assignment\OperatorOverloading Assignment\obj\Debug\OperatorOverloading Assignment.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\OperatorOverloading Assignment\OperatorOverloading Assignment\obj\Debug\OperatorOverloading Assignment.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\OperatorOverloading Assignment\OperatorOverloading Assignment\bin\Debug\OperatorOverloading Assignment.exe.config
+C:\Users\MyPC\source\repos\OperatorOverloading Assignment\OperatorOverloading Assignment\bin\Debug\OperatorOverloading Assignment.exe
+C:\Users\MyPC\source\repos\OperatorOverloading Assignment\OperatorOverloading Assignment\bin\Debug\OperatorOverloading Assignment.pdb
+C:\Users\MyPC\source\repos\OperatorOverloading Assignment\OperatorOverloading Assignment\obj\Debug\OperatorOverloading Assignment.exe
+C:\Users\MyPC\source\repos\OperatorOverloading Assignment\OperatorOverloading Assignment\obj\Debug\OperatorOverloading Assignment.pdb
