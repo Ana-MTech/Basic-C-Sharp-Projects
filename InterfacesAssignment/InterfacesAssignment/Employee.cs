@@ -6,29 +6,14 @@ using System.Threading.Tasks;
 
 namespace InterfacesAssignment
 {
-        public class Employee : IQuittable
+        class Employee : Person, IQuittable
         
     {
-        public void SayName()
-            {
-                Console.WriteLine(firstName + "" + lastName);
-            }
-
-        public string firstName
-            {
-                 get;
-                 set;
-            }
-
-        public string lastName
-            {
-                 get;
-                 set;
-            }
+        public List<int> ID { get; set; }
             
-        public void Quit()
+        public void Quit(Employee employee) //Quit method
             {
-                 Console.WriteLine("The list for first quartal.");
+                 Console.WriteLine("The list oy employees.");
             }
     } 
 }

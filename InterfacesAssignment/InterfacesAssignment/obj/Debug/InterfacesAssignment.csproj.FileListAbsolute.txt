@@ -1,2 +1,7 @@
 C:\Users\MyPC\source\repos\InterfacesAssignment\InterfacesAssignment\obj\Debug\InterfacesAssignment.csproj.AssemblyReference.cache
 C:\Users\MyPC\source\repos\InterfacesAssignment\InterfacesAssignment\obj\Debug\InterfacesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\InterfacesAssignment\InterfacesAssignment\bin\Debug\InterfacesAssignment.exe.config
+C:\Users\MyPC\source\repos\InterfacesAssignment\InterfacesAssignment\bin\Debug\InterfacesAssignment.exe
+C:\Users\MyPC\source\repos\InterfacesAssignment\InterfacesAssignment\bin\Debug\InterfacesAssignment.pdb
+C:\Users\MyPC\source\repos\InterfacesAssignment\InterfacesAssignment\obj\Debug\InterfacesAssignment.exe
+C:\Users\MyPC\source\repos\InterfacesAssignment\InterfacesAssignment\obj\Debug\InterfacesAssignment.pdb

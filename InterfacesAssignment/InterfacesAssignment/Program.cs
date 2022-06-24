@@ -10,10 +10,20 @@ namespace InterfacesAssignment
     {
         static void Main(string[] args)
         {
-            IQuittable file1 = new Employee();
-            Employee file2 = new Employee();
-            file2.SayName();
-            file1.Quit();
+            Employee employee= new Employee();
+            IQuittable quit = new Employee();
+            
+            //Call method Quit() from IQuittable
+            quit.Quit(employee);
+
+            //Employee list
+            employee.FullName = new List<string>() { "Matt Smith", "John Callas", " Tom Perry" };
+            //employee.ID = new List<int>() { 5432, 1124, 8765 };
+
+            foreach (string FullName in employee.FullName)
+            {
+                employee.SayName(FullName);
+            }
             Console.ReadLine();
         }
     }

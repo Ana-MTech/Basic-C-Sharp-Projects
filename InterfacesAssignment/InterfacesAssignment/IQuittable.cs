@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace InterfacesAssignment
 {
-    public interface IQuittable
+    interface IQuittable
     {
-        public void SayName();
-      //  void Quit();
-       
+        void Quit(Employee employee);  
     }
 }
