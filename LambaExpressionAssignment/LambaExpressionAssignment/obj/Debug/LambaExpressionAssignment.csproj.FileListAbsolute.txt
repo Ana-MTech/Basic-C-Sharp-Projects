@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\LambaExpressionAssignment\LambaExpressionAssignment\obj\Debug\LambaExpressionAssignment.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\LambaExpressionAssignment\LambaExpressionAssignment\obj\Debug\LambaExpressionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\LambaExpressionAssignment\LambaExpressionAssignment\bin\Debug\LambaExpressionAssignment.exe.config
+C:\Users\MyPC\source\repos\LambaExpressionAssignment\LambaExpressionAssignment\bin\Debug\LambaExpressionAssignment.exe
+C:\Users\MyPC\source\repos\LambaExpressionAssignment\LambaExpressionAssignment\bin\Debug\LambaExpressionAssignment.pdb
+C:\Users\MyPC\source\repos\LambaExpressionAssignment\LambaExpressionAssignment\obj\Debug\LambaExpressionAssignment.exe
+C:\Users\MyPC\source\repos\LambaExpressionAssignment\LambaExpressionAssignment\obj\Debug\LambaExpressionAssignment.pdb
