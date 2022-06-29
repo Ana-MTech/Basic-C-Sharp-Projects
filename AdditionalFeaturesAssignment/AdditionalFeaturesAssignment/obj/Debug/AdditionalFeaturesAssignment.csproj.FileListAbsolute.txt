@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.exe.config
+C:\Users\MyPC\source\repos\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.exe
+C:\Users\MyPC\source\repos\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.pdb
+C:\Users\MyPC\source\repos\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.exe
+C:\Users\MyPC\source\repos\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.pdb
