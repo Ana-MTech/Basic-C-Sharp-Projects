@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.exe.config
+C:\Users\MyPC\source\repos\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.exe
+C:\Users\MyPC\source\repos\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.pdb
+C:\Users\MyPC\source\repos\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.exe
+C:\Users\MyPC\source\repos\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.pdb
