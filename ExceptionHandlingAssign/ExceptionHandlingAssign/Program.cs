@@ -15,8 +15,6 @@ namespace ExceptionHandlingAssign
 
             try
             {
-                //int yourAge1 = Int32.Parse(yourAge);
-
                 Console.WriteLine("You were born before " + yourAge + " and your birth year is " + DateTime.Today.AddYears(-yourAge).ToString("yyyy"));
 
                 bool validAnswer = false;
@@ -68,5 +66,6 @@ namespace ExceptionHandlingAssign
                 }
             }
         }
+
      }
 }
