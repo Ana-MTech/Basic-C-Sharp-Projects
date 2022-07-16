@@ -1,0 +1,12 @@
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\bin\Debug\StudentCodeFirst1.exe.config
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\bin\Debug\StudentCodeFirst1.exe
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\bin\Debug\StudentCodeFirst1.pdb
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\bin\Debug\EntityFramework.dll
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\bin\Debug\EntityFramework.xml
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\obj\Debug\StudentCodeFirst1.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\obj\Debug\StudentCodeFirst1.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\obj\Debug\StudentCodeFirst1.csproj.CopyComplete
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\obj\Debug\StudentCodeFirst1.exe
+C:\Users\MyPC\source\repos\StudentCodeFirst1\StudentCodeFirst1\obj\Debug\StudentCodeFirst1.pdb
